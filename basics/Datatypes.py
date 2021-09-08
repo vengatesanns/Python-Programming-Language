@@ -11,3 +11,11 @@ print(2//3)  # => 0 (Round Off)
 print(3//2)  # => 1 
 print(3%2)   # => 1
 print(27%3)  # => 0
+
+print(type(1 + 2))
+
+
+
+# Math Functions
+print(round(3.5))   # => 3
+print(abs(-10))     # => 10
