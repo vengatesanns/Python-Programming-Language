@@ -1,5 +1,3 @@
-
-
 # Read Input from stdIn
 
 user_name = input("Enter your name: ")

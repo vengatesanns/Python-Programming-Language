@@ -1,5 +1,3 @@
-
-
 # Basic Declaration and Initialization
 
 user_name = "vengat"
@@ -18,7 +16,6 @@ youtube_channel = 'HackPro-Tech'
 
 print(f'{youtube_user_name} owned the {youtube_channel} youtube channel!')
 
-
 # Index in the String
 print(youtube_user_name[4])  # a
 print(youtube_user_name[1:5])  # enga
@@ -29,5 +26,3 @@ print(youtube_user_name[::2])  # Vna
 print(youtube_user_name[-1])  # t
 print(youtube_user_name[:-5:-1])  # tagn
 print(youtube_user_name[::-1])  # tagneV
-
-
